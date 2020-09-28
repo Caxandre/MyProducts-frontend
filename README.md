@@ -3,6 +3,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screens
+
+* SignIn
+* SignUp
+* Dashboard
+
 ## Technologies
 
 Technologies that I used to develop this web client
@@ -11,6 +17,7 @@ Technologies that I used to develop this web client
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Router DOM](https://reacttraining.com/react-router/)
 - [React Icons](https://react-icons.netlify.com/#/)
+- [React Modal](github.com/reactjs/react-modal)
 - [UnForm](https://unform.dev/)
 - [Yup](https://github.com/jquense/yup)
 - [Styled Components](https://styled-components.com/)
